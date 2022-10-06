@@ -14,7 +14,7 @@ import { FiFigma, FiCode, FiBox } from 'react-icons/fi'
 const Home = () => {
   return (
     <>
-      <PageTemplate title="Home - Collosal">
+      <PageTemplate title="CodeAir">
         {/* Banner Section */}
         <section
           className="flex flex-col gap-10 items-center"
